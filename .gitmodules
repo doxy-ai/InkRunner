@@ -1,0 +1,6 @@
+[submodule "inkcpp"]
+	path = inkcpp
+	url = https://github.com/JBenda/inkcpp.git
+[submodule "embed"]
+	path = embed
+	url = https://github.com/batterycenter/embed.git
